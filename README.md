@@ -12,7 +12,6 @@ This website allows you to share messages and send pictures with other registere
 ### The real time messaging, user authentication, user chats, sent images, etcetera, data is being handled in Google
 Firebase
 
-### The responsive application uses various CSS properties such as, Flexbox, CSS keyframes to provide a user-friendly
-chatting resource.
+### The responsive application uses various CSS properties such as, Flexbox, CSS keyframes to provide a user-friendly chatting resource.
 
 ### Tech: HTML, React.js, Firebase, CSS, JavaScript
